@@ -1,5 +1,5 @@
 package question1;
-
+//Queue
 public class Queue
 {	final int SIZE=12;
 	private int queue[]=new int[SIZE];
